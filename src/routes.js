@@ -22,7 +22,7 @@
 import AuthForm from './containers/AuthenticationPage';
 
 const router = [{
-  path: '/',
+  path: '/auth',
   component: AuthForm,
 
 },
